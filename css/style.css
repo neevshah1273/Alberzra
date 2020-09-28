@@ -1,0 +1,57 @@
+.xd{
+    background-color: yellow;
+    margin: 0;
+}
+
+.xdd{
+    color: yellow;
+}
+
+.xddd{
+    background-color: yellow;
+}
+
+.wh{
+    color: darkblue;
+}
+
+.dd{
+    font-style: oblique;
+    font-size: 25px;
+}
+.ddd{
+    flex: 7;
+    font-size: 20px;
+}
+
+/*
+.map {
+    flex: 5;
+}
+
+.map-addr {
+    flex: 7;
+}
+
+.the-map {
+    width: 100%;
+    height: 100%;
+    margin-left: 20px;
+}
+
+.map-head {
+    color: white;
+    font-size: 25px;
+    font-style: oblique;
+    margin-left: 55px;
+    margin-right: 95px;
+    line-height: 28px;
+}
+
+.map-desc {
+    color: white;
+    font-size: 20px;
+    margin-left: 55px;
+    margin-right: 95px;
+    line-height: 28px;
+}*/
