@@ -16,7 +16,6 @@
 }
 
 .dd{
-    font-style: oblique;
     font-size: 25px;
 }
 .ddd{
@@ -55,3 +54,8 @@
     margin-right: 95px;
     line-height: 28px;
 }*/
+
+body{
+    font-family:"Lucida Console",Courier,monospace;
+}
+
